@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vgz6f82tu-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vgz6f82tu-go
